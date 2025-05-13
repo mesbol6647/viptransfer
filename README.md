@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "vip-services":[
     {
@@ -436,3 +437,6 @@ const AracSecimi = () => {
 };
 
 export default AracSecimi;
+=======
+# viptransfer
+>>>>>>> 16671994fa50377760bcf1e33e090feb18de8e39
