@@ -6,7 +6,7 @@ const FloatingButtons = () => {
       {/* WhatsApp (Sağ altta) */}
       <div className="fixed bottom-4 right-4 z-50 animate-bounce">
         <a
-          href="https://wa.me/905066685090"
+          href="https://wa.me/905465702107"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -20,7 +20,7 @@ const FloatingButtons = () => {
 
       {/* Telefon (Sol altta) */}
       <div className="fixed bottom-4 left-4 z-50 animate-bounce ">
-        <a href="tel:+905066685090">
+        <a href="tel:+905465702107">
           <img
             src="/images/11.png"
             alt="Ara"
