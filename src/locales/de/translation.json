@@ -1,0 +1,144 @@
+{
+  "navbar": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "regions": "Alle Regionen",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "comments": "Kundenbewertungen"
+  },
+  "home": {
+    "title": "ANTALYA AIR VIP TRANSFER",
+    "note": "* Die Preise gelten pro Fahrzeug, nicht pro Person.",
+    "button_other_regions": "Weitere Transferregionen"
+  },
+  "about": {
+    "title": "Antalya Air VIP Transfer – Wo Luxus, Komfort und Sicherheit aufeinandertreffen",
+    "intro": "Antalya Air ist nicht nur ein Transferunternehmen, sondern ein VIP-Lifestyle-Erlebnis, das jeden Moment Ihrer Reise zu etwas Besonderem macht. Mit unseren exklusiven Transferdiensten zu den besten Urlaubszielen der Türkei, insbesondere vom Flughafen Antalya, setzen wir neue Maßstäbe in der Branche.",
+    "mission": {
+      "title": "🎯 Unsere Mission",
+      "desc": "Luxus und Prestige für jeden zugänglich machen und beweisen, dass eine Reise nicht nur das Ziel, sondern ein ganzheitliches Erlebnis ist."
+    },
+    "vision": {
+      "title": "👁 Unsere Vision",
+      "desc": "Eine führende Marke im VIP-Transfer nicht nur in Antalya, sondern in ganz Türkei und international werden."
+    },
+    "why": {
+      "title": "🚘 Warum Antalya Air VIP Transfer?",
+      "item1": "Die modernste VIP-Fahrzeugflotte der Branche",
+      "item2": "Immer pünktlicher und gut geplanter Service",
+      "item3": "Professionelles und zuverlässiges Fahrerteam",
+      "item4": "Hohe Standards in Hygiene und Sicherheit",
+      "item5": "Kundenorientierter Serviceansatz"
+    },
+    "locations": {
+      "title": "🛬 Wo sind wir?",
+      "desc": "Flughafen Antalya, Belek, Side, Alanya, Kemer, Kaş, Kalkan, Manavgat, Yachthäfen, Privatkliniken und mehr."
+    },
+    "clients": {
+      "title": "💼 Wer wählt uns?",
+      "item1": "Große Familien",
+      "item2": "Flitterwochen-Paare",
+      "item3": "Künstler und Influencer",
+      "item4": "Internationale Geschäftsleute",
+      "item5": "Protokollgäste"
+    },
+    "closing": {
+      "title": "💬 Abschließende Worte",
+      "desc": "Eine Reise mit Antalya Air VIP Transfer ist eine Einladung zu einem komfortablen und sicheren Erlebnis. Der Urlaub in Antalya beginnt nicht erst im Hotel – unser VIP-Transfer lässt Sie sich bereits auf dem Weg dorthin wie im Urlaub fühlen."
+    },
+    "contact": "📞 24/7 Support | 📧 info@antalyaair.com | 🌐 www.antalyaair.com"
+  },
+  "regions": {
+    "title": "Alle Transferregionen",
+    "airport": "FLUGHAFEN ANTALYA"
+  },
+  "review": {
+    "title": "Bewertung abgeben",
+    "namePlaceholder": "Ihr vollständiger Name",
+    "commentPlaceholder": "Schreiben Sie Ihren Kommentar...",
+    "submit": "Bewertung abschicken",
+    "alertSuccess": "Ihre Bewertung wurde erfolgreich übermittelt!"
+  },
+  "vehicle": {
+    "selection": "Fahrzeugauswahl",
+    "passenger": "Passagier(e)",
+    "priceNote": "Die Preise gelten pro Fahrzeug, nicht pro Person.",
+    "capacity": "Passagierkapazität",
+    "luggage": "Gepäckkapazität",
+    "driver": "Erfahrener und zuverlässiger Fahrer",
+    "select": "Fahrzeug auswählen",
+    "details": "Fahrzeugdetails"
+  },
+  "blog": {
+    "1": {
+      "title": "Beginnen Sie Ihren Urlaub komfortabel mit Antalya VIP Transfer",
+      "description": "Luxuriöser und sicherer Transport vom Flughafen Antalya zu Ihrem Hotel. 24/7 privater Chauffeur mit Mercedes Vito!"
+    },
+    "2": {
+      "title": "Spezialtransfer zu jedem Ziel: Belek, Kemer, Side",
+      "description": "Die einzige Möglichkeit, die besten Touristenorte in Antalya schnell und pünktlich zu erreichen: unser VIP-Transferservice!"
+    },
+    "3": {
+      "title": "Warum sollten Sie sich für VIP-Transfer entscheiden?",
+      "description": "Viel komfortabler, pünktlicher und prestigeträchtiger als herkömmliche Taxis. Erleben Sie das Privileg in Antalya."
+    },
+    "4": {
+      "title": "Warum der Transfer vom Flughafen Antalya die Qualität Ihres Urlaubs bestimmt",
+      "description": "Fühlen Sie sich von der ersten Minute Ihres Urlaubs entspannt. Pünktlicher, komfortabler und stressfreier Transport erwartet Sie."
+    },
+    "5": {
+      "title": "VIP-Transfer nach Kemer: Eine luxuriöse Reise in die Natur",
+      "description": "Die bequemste Art, Kemer zu erreichen: VIP-Transfer mit privatem Fahrer von Antalya Air."
+    },
+    
+      "6": {
+        "title": "VIP-Transfer nach Side: Komfortable Reise durch die Geschichte",
+        "description": "Beginnen Sie Ihre Reise in das antike Side. Erleben Sie die Geschichte in Komfort mit unseren VIP-Fahrzeugen."
+      },
+      "7": {
+        "title": "Transfer zu den Belek Hotels: Der erste Schritt eines luxuriösen Urlaubs",
+        "description": "Transfer nach Belek, berühmt für seine Golfhotels, jetzt stilvoller und exklusiver."
+      },
+      "8": {
+        "title": "VIP-Transport nach Alanya: Setzen Sie Komfort bei langen Strecken an erste Stelle",
+        "description": "Die größte Sorge für diejenigen, die nach Alanya reisen, ist die Entfernung. Wir verwandeln das in Vergnügen."
+      },
+      "9": {
+        "title": "Hygiene und Sicherheit bei Transfers: Sorgenfreiheit mit Antalya Air",
+        "description": "Unsere Fahrzeuge werden nach jeder Fahrt gründlich gereinigt. Unsere Fahrer sind bestens geschult. Ihre Sicherheit ist unsere Priorität."
+      }
+
+  },
+  "faq": {
+      "title": "Häufig gestellte Fragen",
+      "items": [
+        { "question": "Was ist ein VIP-Transfer?", "answer": "Ein VIP-Transfer ist ein privater, komfortabler und fahrergesteuerter Transportservice. Er wird nicht mit anderen geteilt." },
+        { "question": "Von welchem Flughafen fahren Ihre Fahrzeuge ab?", "answer": "Wir bieten Transferdienste vom Flughafen Antalya zu allen Hotels und touristischen Regionen an." },
+        { "question": "Gibt es Getränke im Fahrzeug?", "answer": "Ja, unsere Fahrzeuge bieten kalte Getränke und Wasser an." },
+        { "question": "Stellen Sie einen Kindersitz zur Verfügung?", "answer": "Ja. Sie können ihn bei der Reservierung anfordern." },
+        { "question": "Sind die Transfergebühren pro Person?", "answer": "Nein, unsere Preise gelten pro Fahrzeug und ändern sich nicht abhängig von der Anzahl der Personen." },
+        { "question": "Sprechen Ihre Fahrer Fremdsprachen?", "answer": "Ja, wir haben Fahrer, die Englisch sprechen." },
+        { "question": "Fahren Sie auch spät in der Nacht?", "answer": "Ja. Wir bieten einen 24/7-Transferservice an." },
+        { "question": "Wie früh sollte ich buchen?", "answer": "Es wird empfohlen, mindestens 12 Stunden im Voraus zu buchen." },
+        { "question": "Bekomme ich eine Rückerstattung, wenn ich storniere?", "answer": "Eine vollständige Rückerstattung erfolgt bei Stornierungen mindestens 24 Stunden im Voraus." },
+        { "question": "Gibt es eine Gepäckbegrenzung?", "answer": "Es gibt eine Gepäckkapazität abhängig vom Fahrzeugmodell. Zum Beispiel kann ein Sprinter mehr als 10 Koffer transportieren." },
+        { "question": "Wann erhalte ich die Fahrerinformationen?", "answer": "Die Fahrerinformationen werden 2 Stunden vor der Transferzeit per WhatsApp gesendet." },
+        { "question": "Sind Ihre Fahrzeuge versichert?", "answer": "Ja. Alle unsere Fahrzeuge und Passagiere sind versichert." }
+      ]
+},
+"vipServices": {
+  "title": "VIP Transferdienste",
+  "1": "Flughafen - Hotel Transfers",
+  "2": "Privater Chauffeurservice",
+  "3": "VIP Empfang & Persönlicher Assistent",
+  "4": "Gruppen- und Familientransfers",
+  "5": "Stadtinterne Privattransfers",
+  "6": "Nachtclub & Event Transfers",
+  "7": "Yacht- / Marina Transfers",
+  "8": "Langstrecken-Privattransfers"
+},
+ "otherRegions": "Andere Regionen"
+
+
+}

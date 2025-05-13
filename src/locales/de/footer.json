@@ -1,0 +1,31 @@
+{
+    "services": {
+      "title": "VIP-Transferdienste",
+      "airport": "Flughafen - Hotel Transfers",
+      "private": "Private Chauffeur-Fahrzeugvermietung",
+      "vip": "VIP-Begrüßung & Persönlicher Assistent",
+      "group": "Gruppen- und Familientransfers",
+      "city": "Stadtinterne VIP-Transfers"
+    },
+    "vehicles": {
+      "title": "Fahrzeugoptionen",
+      "vito": "Mercedes Vito & Sprinter",
+      "suv": "Premium-SUVs und Elektrofahrzeuge",
+      "lux": "Luxus-Minibusse und VIP-Pakete",
+      "tracking": "Live-Fahrzeugverfolgung & Individuelle Routen",
+      "comfort": "Komfortpaket: Klima, WLAN, Getränke-Service"
+    },
+    "tours": {
+      "title": "Private Touren & Reservierungen",
+      "perge": "Perge, Aspendos & Köprülü-Schlucht Touren",
+      "heli": "Hubschrauber-Vermietung & VIP-Touren",
+      "booking": "Sofortige Online-Reservierung",
+      "payment": "Sichere Zahlungsmöglichkeiten"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "location": "Antalya Flughafen Inlandsterminal C"
+    },
+    "rights": "Alle Rechte vorbehalten"
+  }
+  

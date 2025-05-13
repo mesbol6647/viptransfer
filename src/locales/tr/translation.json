@@ -1,0 +1,155 @@
+
+
+{
+    "navbar": {
+      "home": "Ana Sayfa",
+      "about": "Hakkımızda",
+      "regions": "Tüm Bölgeler",
+      "blog": "Blog",
+      "faq": "Sık Sorulanlar",
+      "comments": "Yorumlar"
+    },
+    "home": {
+      "title": "ANTALYA AIR VIP TRANSFER",
+      "note": "* Fiyatlar kişi başı değil, araç fiyatıdır.",
+      "button_other_regions": "Diğer Transfer Bölgeleri"
+    },
+    "about": {
+      "title": "Antalya Air VIP Transfer – Lüks, Konfor ve Güvenliğin Buluşma Noktası",
+      "intro": "Antalya Air, yalnızca bir transfer firması değil; yolculuğunuzun her anını ayrıcalıklı kılan bir VIP yaşam deneyimidir. Antalya Havalimanı başta olmak üzere, Türkiye’nin gözde tatil beldelerine sunduğumuz özel transfer hizmetleri ile sektörde kalite çıtasını yükseltiyoruz.",
+      "mission": {
+        "title": "🎯 Misyonumuz",
+        "desc": "Lüks ve prestiji herkes için ulaşılabilir kılarak, yolculuğun sadece varış noktası değil, başlı başına bir deneyim olduğunu kanıtlamak."
+      },
+      "vision": {
+        "title": "👁 Vizyonumuz",
+        "desc": "Antalya’nın sınırlarını aşarak, Türkiye genelinde ve uluslararası arenada VIP transferde örnek gösterilen bir marka olmak."
+      },
+      "why": {
+        "title": "🚘 Neden Antalya Air VIP Transfer?",
+        "item1": "Sektörün en modern VIP araç filosu",
+        "item2": "Her zaman dakik ve planlı hizmet",
+        "item3": "Profesyonel ve güvenilir şoför kadrosu",
+        "item4": "Hijyen ve güvenlik standartlarında yüksek kalite",
+        "item5": "Misafir memnuniyeti odaklı yaklaşım"
+      },
+      "locations": {
+        "title": "🛬 Nerelerdeyiz?",
+        "desc": "Antalya Havalimanı, Belek, Side, Alanya, Kemer, Kaş, Kalkan, Manavgat, yat limanları, özel klinikler ve daha fazlası."
+      },
+      "clients": {
+        "title": "💼 Kimler Bizi Tercih Ediyor?",
+        "item1": "Kalabalık aileler",
+        "item2": "Balayı çiftleri",
+        "item3": "Sanatçılar ve influencer'lar",
+        "item4": "Uluslararası iş insanları",
+        "item5": "Protokol konukları"
+      },
+      "closing": {
+        "title": "💬 Son Söz",
+        "desc": "Antalya Air VIP Transfer ile yola çıkmak, konforun ve güvenin adım adım hissedildiği bir deneyime davet edilmektir. Antalya’da tatil sadece otelde başlamaz. VIP transfer, konaklamanıza varmadan önce size “tatildeyim” duygusunu yaşatır."
+      },
+      "contact": "📞 7/24 destek hattı | 📧 info@antalyaair.com | 🌐 www.antalyaair.com"
+    },
+    "regions": {
+      "title": "Tüm Transfer Bölgeleri",
+      "desc": "Antalya başta olmak üzere Türkiye’nin her bölgesine VIP transfer hizmeti sunuyoruz. Filomuz, en yeni model araçlar ve profesyonel şoförlerle size hizmet vermeye hazır.",
+      "airport": "ANTALYA HAVALİMANI"
+    },
+    "review": {
+      "title": "Yorum Ekle",
+      "namePlaceholder": "Adınız Soyadınız",
+      "commentPlaceholder": "Yorumunuzu yazınız...",
+      "submit": "Yorum Gönder",
+      "alertSuccess": "Yorumunuz başarıyla gönderildi!"
+    },
+    "vehicle": {
+      "selection": "Araç Seçimi",
+      "passenger": "yolcu",
+      "priceNote": "Fiyatlar kişi başı değil, araç fiyatıdır.",
+      "capacity": "Yolcu Kapasitesi",
+      "luggage": "Bagaj Kapasitesi",
+      "driver": "Deneyimli ve Güvenilir Sürücü",
+      "select": "Aracı Seç",
+      "details": "Araç Detayları"
+    },
+    "blog": {
+      "1": {
+        "title": "Antalya VIP Transfer ile Konforlu Tatil Başlasın",
+        "description": "Antalya Havalimanı’ndan otelinize lüks ve güvenli ulaşım. Mercedes Vito ile 7/24 özel şoförlü transfer!"
+      },
+      "2": {
+        "title": "Belek, Kemer, Side... Her Noktaya Özel Transfer",
+        "description": "Antalya’nın en popüler turistik bölgelerine hızlı ve zamanında ulaşımın tek yolu: VIP transfer hizmetimiz!"
+      },
+      "3": {
+        "title": "Neden VIP Transfer Tercih Edilmeli?",
+        "description": "Geleneksel taksilere göre çok daha konforlu, dakik ve prestijli bir hizmet. Antalya’da ayrıcalığı yaşayın."
+      },
+      "4": {
+        "title": "Antalya Havalimanı Transfer Hizmeti Neden Tatilinizin Kalitesini Belirler?",
+        "description": "Tatilinizin daha ilk dakikalarında rahat edin. VIP transfer ile dakik, konforlu ve problemsiz bir ulaşım sizi bekliyor."
+      },
+      "5": {
+        "title": "Kemer’e VIP Transfer: Doğanın İçinde Lüks Yolculuk",
+        "description": "Kemer’e ulaşmanın en rahat yolu: Antalya Air ile özel şoförlü VIP transfer."
+      },
+      "6": {
+        "title": "Side’ye VIP Transfer: Tarihle İç İçe Konforlu Ulaşım",
+        "description": "Antik Side’ye yolculuğunuz başlasın. VIP araçlarımızla tarihe konforlu bir adım atın."
+      },
+      "7": {
+        "title": "Belek Otellerine Transfer: Tatilin İlk Lüks Adımı",
+        "description": "Golf otelleriyle ünlü Belek’e transfer, şimdi çok daha şık ve özel."
+      },
+      "8": {
+        "title": "Alanya’ya VIP Ulaşım: Uzun Mesafede Konfor Önceliğiniz Olsun",
+        "description": "Alanya’ya gidenler için en büyük sorun mesafe. Biz onu keyfe dönüştürüyoruz."
+      },
+      "9": {
+        "title": "Transferde Hijyen ve Güvenlik: Antalya Air ile İçiniz Rahat",
+        "description": "Araçlarımız her yolcu sonrası detaylı temizlenir. Sürücülerimiz eğitimlidir. Güvenliğiniz bizim için öncelik."
+      }
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        { "question": "VIP transfer nedir?", "answer": "VIP transfer, özel, konforlu ve şoförlü bir ulaşım hizmetidir. Başkalarıyla paylaşılmaz." },
+        { "question": "Araçlarınız hangi havalimanından hizmet veriyor?", "answer": "Antalya Havalimanı'ndan tüm otellere ve turistik bölgelere transfer hizmeti sağlıyoruz." },
+        { "question": "Araç içinde içecek servisi var mı?", "answer": "Evet, araçlarımızda soğuk içecekler ve su bulunmaktadır." },
+        { "question": "Bebek koltuğu temin ediyor musunuz?", "answer": "Evet. Rezervasyon sırasında talep edebilirsiniz." },
+        { "question": "Transfer ücretleri kişi başı mı?", "answer": "Hayır, fiyatlarımız araç başınadır. Kişi sayısına göre değişmez." },
+        { "question": "Şoförleriniz yabancı dil konuşuyor mu?", "answer": "Evet, İngilizce konuşan şoförlerimiz bulunmaktadır." },
+        { "question": "Gece geç saatlerde hizmet veriyor musunuz?", "answer": "Evet. 7/24 transfer hizmeti sağlıyoruz." },
+        { "question": "Ne kadar erken rezervasyon yapmalıyım?", "answer": "En az 12 saat öncesinden rezervasyon yapılması önerilir." },
+        { "question": "İptal edersem geri ödeme alabilir miyim?", "answer": "En az 24 saat önceden yapılan iptallerde tam geri ödeme yapılır." },
+        { "question": "Bagaj sınırı var mı?", "answer": "Araç modeline bağlı olarak bagaj kapasitesi değişmektedir. Örneğin, bir Sprinter 10+ valiz alabilir." },
+        { "question": "Şoför bilgilerini ne zaman alacağım?", "answer": "Şoför bilgileri, transfer saatinden 2 saat önce WhatsApp üzerinden gönderilir." },
+        { "question": "Araçlarınız sigortalı mı?", "answer": "Evet. Tüm araçlarımız ve yolcularımız sigortalıdır." }
+      ]
+},"vipServices": {
+  "title": "VIP Transfer Hizmetleri",
+  "1": "Havalimanı - Otel Transferleri",
+  "2": "Özel Şoförlü Araç Kiralama",
+  "3": "VIP Karşılama & Özel Asistan",
+  "4": "Grup ve Aile Transferleri",
+  "5": "Şehir İçi Özel Transferler",
+  "6": "Gece Kulübü & Eğlence Transferi",
+  "7": "Yat / Marina Transferi",
+  "8": "Uzun Mesafe Özel Transferler"
+},
+
+  "currency": {
+    "name": "TRY",
+    "conversionRate": 45
+  },
+   "otherRegions": "Diğer Tüm Bölgeler"
+
+
+
+
+
+  
+
+  }
+  

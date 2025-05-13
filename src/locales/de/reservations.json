@@ -1,0 +1,20 @@
+{
+    "title": "Reservierungsformular",
+    "route": "ROUTE",
+    "priceLabel": "Preis",
+    "priceNote": "Der Preis gilt für das Fahrzeug, nicht pro Person.",
+    "passengerCount": "Anzahl der Passagiere",
+    "warning": "Dieses Fahrzeug ist für die gewählte Anzahl an Passagieren nicht geeignet.",
+    "fullName": "Vollständiger Name",
+    "phone": "Telefonnummer",
+    "email": "E-Mail",
+    "date": "Datum",
+    "flightTime": "Flugzeit",
+    "flightCode": "Flugnummer",
+    "hotel": "Hotelname / Adresse",
+    "note": "Ihre Notizen",
+    "returnTransfer": "Rücktransfer",
+    "babySeat": "Kindersitz",
+    "complete": "Reservierung abschließen"
+  }
+  

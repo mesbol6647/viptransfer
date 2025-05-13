@@ -1,0 +1,69 @@
+.rentcar {
+    background-image: url('../assets/7730.jpg'); /* Büyük ekranlar için arka plan resmi */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding: 20px;
+    position: relative;
+}
+
+.rentcar.no-background {
+    background-image: none;
+  }
+  
+  .car-container {
+    /* Araç kartlarının yer alacağı stil tanımlamaları */
+  }
+  
+  .background-content {
+    /* Arka plan içeriğinin yer alacağı stil tanımlamaları */
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+@media (max-width: 991.98px) {
+    .rentcar {
+        background-image: url('../assets/araba5.jpg'); /* Küçük ekranlar için arka plan resmi */
+    }
+}
+
+
+
+.headerSearchItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    border: 2px solid #f7b605;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: transparent;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% - 40px);
+    margin-bottom: 0;
+    z-index: 10; /* Elementlerin diğer elementlerle çakışmasını önlemek için z-index ekledik */
+}
+
+
+
+ button {
+    display: inline-block;
+    background-color: #f7b605;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid #f7b605;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    /* width: 48%; */
+    height: 100%;
+    font-size: 1rem;
+    text-align: center;
+} 
+

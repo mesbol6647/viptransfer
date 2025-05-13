@@ -1,0 +1,30 @@
+{
+  "services": {
+    "title": "VIP Transfer Services",
+    "airport": "Airport - Hotel Transfers",
+    "private": "Private Chauffeured Car Rental",
+    "vip": "VIP Meet & Greet",
+    "group": "Group and Family Transfers",
+    "city": "City Private Transfers"
+  },
+  "vehicles": {
+    "title": "Vehicle Options",
+    "vito": "Mercedes Vito & Sprinter",
+    "suv": "Premium SUVs and Electric Vehicles",
+    "lux": "Luxury Minibuses and VIP Packages",
+    "tracking": "Live Vehicle Tracking & Custom Routes",
+    "comfort": "Comfort Package: A/C, Wi-Fi, Beverage Service"
+  },
+  "tours": {
+    "title": "Private Tours & Reservations",
+    "perge": "Perge, Aspendos & Köprülü Canyon Tours",
+    "heli": "Helicopter Rental & VIP Tour Options",
+    "booking": "Instant Online Booking",
+    "payment": "Secure Payment Options"
+  },
+  "contact": {
+    "title": "Contact",
+    "location": "Antalya Airport Domestic Terminal C"
+  },
+  "rights": "All Rights Reserved"
+}

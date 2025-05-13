@@ -1,0 +1,20 @@
+{
+    "title": "Rezervasyon Formu",
+    "route": "ROTA",
+    "priceLabel": "Fiyat",
+    "priceNote": "Fiyat kişi başı değil, araç fiyatıdır.",
+    "passengerCount": "Yolcu Sayısı",
+    "warning": "Bu araç, seçilen yolcu sayısı için uygun değildir.",
+    "fullName": "Ad Soyad",
+    "phone": "Telefon No",
+    "email": "E-Posta",
+    "date": "Tarih",
+    "flightTime": "Uçak Saati",
+    "flightCode": "Uçuş Kodu",
+    "hotel": "Otel Adı / Adres",
+    "note": "Notlarınız",
+    "returnTransfer": "Dönüş Transferi",
+    "babySeat": "Bebek Koltuğu",
+    "complete": "Rezervasyonu Tamamla"
+  }
+  

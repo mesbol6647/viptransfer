@@ -1,0 +1,31 @@
+{
+    "services": {
+      "title": "VIP Transfer Hizmetleri",
+      "airport": "Havalimanı - Otel Transferleri",
+      "private": "Özel Şoförlü Araç Kiralama",
+      "vip": "VIP Karşılama & Özel Asistan",
+      "group": "Grup ve Aile Transferleri",
+      "city": "Şehir İçi Özel Transferler"
+    },
+    "vehicles": {
+      "title": "Araç Seçenekleri",
+      "vito": "Mercedes Vito & Sprinter",
+      "suv": "Premium SUV ve Elektrikli Araçlar",
+      "lux": "Lüks Minibüs ve Özel VIP Paketler",
+      "tracking": "Canlı Araç Takibi & Kişisel Rota",
+      "comfort": "Konfor Paketi: Klima, Wi-Fi, İçecek Servisi"
+    },
+    "tours": {
+      "title": "Özel Turlar & Rezervasyon",
+      "perge": "Perge, Aspendos & Köprülü Kanyon Turları",
+      "heli": "Helikopter Kiralama & VIP Tur Seçenekleri",
+      "booking": "Anında Online Rezervasyon",
+      "payment": "Güvenli Ödeme Seçenekleri"
+    },
+    "contact": {
+      "title": "İletişim",
+      "location": "Antalya Havalimanı İç Hatlar C Terminal"
+    },
+    "rights": "Tüm Hakları Saklıdır"
+  }
+  

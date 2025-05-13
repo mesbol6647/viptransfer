@@ -1,0 +1,20 @@
+{
+    "title": "Reservation Form",
+    "route": "ROUTE",
+    "priceLabel": "Price",
+    "priceNote": "The price is for the vehicle, not per person.",
+    "passengerCount": "Passenger Count",
+    "warning": "This vehicle is not suitable for the selected number of passengers.",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email",
+    "date": "Date",
+    "flightTime": "Flight Time",
+    "flightCode": "Flight Code",
+    "hotel": "Hotel Name / Address",
+    "note": "Your Notes",
+    "returnTransfer": "Return Transfer",
+    "babySeat": "Baby Seat",
+    "complete": "Complete Reservation"
+  }
+  
