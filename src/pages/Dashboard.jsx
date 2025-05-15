@@ -1,17 +1,9 @@
 
 
-import AppBar from "@mui/material/AppBar";
-import Box from "@mui/material/Box";
-import CssBaseline from "@mui/material/CssBaseline";
-import Toolbar from "@mui/material/Toolbar";
-import Button from "@mui/material/Button";
-import Typography from "@mui/material/Typography";
-import { useSelector } from "react-redux";
-import useAuthCalls from "../service/useAuthCalls";
+
+// import { useSelector } from "react-redux";
+// import useAuthCalls from "../service/useAuthCalls";
 import * as React from "react";
-import Drawer from "@mui/material/Drawer";
-import Divider from "@mui/material/Divider";
-import MenuListItems from "../components/MenuListItems";
 import Section1 from "../components/Section1";
 import Footer from "../components/Footer";
 import Testimonials from "../components/Testimonials";
@@ -24,8 +16,8 @@ import VipServices from "../components/VipServices";
 import { useTranslation } from "react-i18next";
 
 function Dashboard() {
-  const { user } = useSelector((state) => state.auth);
-  const { logout } = useAuthCalls();
+  // const { user } = useSelector((state) => state.auth);
+  // const { logout } = useAuthCalls();
   const { t } = useTranslation();
 
   return (

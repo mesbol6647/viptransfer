@@ -73,21 +73,21 @@ const Footer = () => {
             </li>
           </ul>
           <div className="flex space-x-6 mt-6 justify-center">
-            <a href="#">
+            <a href="https://wa.me/905465702107">
               <img
                 src="/images/7.png"
                 alt="Facebook"
                 className="h-11 w-11 hover:opacity-80"
               />
             </a>
-            <a href="#">
+            <a href="https://wa.me/905465702107">
               <img
                 src="/images/8.png"
                 alt="Instagram"
                 className="h-11 w-11 hover:opacity-80"
               />
             </a>
-            <a href="#">
+            <a href="https://wa.me/905465702107">
               <img
                 src="/images/10.png"
                 alt="WhatsApp"

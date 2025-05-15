@@ -1,13 +1,13 @@
 
 
-import { useSelector } from "react-redux";
-import useAuthCalls from "../service/useAuthCalls";
+// import { useSelector } from "react-redux";
+// import useAuthCalls from "../service/useAuthCalls";
 import * as React from 'react';
 
 
 function DashboardBlog() {
-  const { user } = useSelector((state) => state.auth);
-  const { logout } = useAuthCalls();
+  // const { user } = useSelector((state) => state.auth);
+  // const { logout } = useAuthCalls();
 
   return (
     <>
